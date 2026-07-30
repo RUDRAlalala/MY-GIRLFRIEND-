@@ -1,0 +1,545 @@
+index.html
+<!-- index.html (PART 1) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Happy Girlfriend's Day ❤️</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Great+Vibes&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div id="loader">
+
+<h1>❤️</h1>
+
+<h2>Loading Something Special...</h2>
+
+<p>Made With Love By Mr. Owl 🦉</p>
+
+</div>
+
+<div id="petals"></div>
+
+<div id="hearts"></div>
+
+<section class="hero">
+
+<div class="overlay">
+
+<h3>Happy Girlfriend's Day</h3>
+
+<h1>My Madam ❤️</h1>
+
+<p>
+
+Three Years.
+
+Thousands of Smiles.
+
+Millions of Memories.
+
+One Beautiful Girl.
+
+</p>
+
+<button id="openLetter">
+
+💌 Open My Letter
+
+</button>
+
+</div>
+
+</section>
+
+<section id="letterSection">
+
+<div class="envelope">
+
+<div class="cover"></div>
+
+<div class="letter">
+
+<h2>
+
+To My Dearest Madam ❤️
+
+</h2>
+
+<p>
+
+Happy Girlfriend's Day.
+
+Three years ago, two students met in Class 7 without knowing how important they would become in each other's lives.
+
+Today we're in Class 10, and every single memory has become priceless.
+
+Every smile.
+
+Every laugh.
+
+Every small fight.
+
+Every apology.
+
+Every late conversation.
+
+Every little moment.
+
+Everything has become part of my happiest memories.
+
+You are honestly the best thing that has ever happened to me.
+
+Life gave me many blessings...
+
+but none of them compare to meeting you.
+
+Thank you for standing beside me through good days and bad ones.
+
+Thank you for understanding me.
+
+Thank you for believing in me.
+
+Thank you for making my ordinary life feel extraordinary.
+
+Whenever someone asks me,
+
+"What is the best thing life has ever given you?"
+
+I don't even need to think.
+
+The answer has always been...
+
+You.
+
+Happy Girlfriend's Day,
+
+My Madam ❤️
+
+Forever Yours,
+
+Mr. Owl 🦉
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="timeline">
+
+<h1>
+
+Our Journey ❤️
+
+</h1>
+
+<div class="box">
+
+<h2>
+
+🌱 Class 7
+
+</h2>
+
+<p>
+
+Where our story quietly began...
+
+Neither of us knew that one day we'd become such an important part of each other's lives.
+
+</p>
+
+</div>
+
+<div class="box">
+
+<h2>
+
+🌸 Class 8
+
+</h2>
+
+<p>
+
+We laughed together.
+
+Talked endlessly.
+
+Created memories that still make me smile today.
+
+</p>
+
+</div>
+
+<div class="box">
+
+<h2>
+
+💕
+
+Class 9
+
+</h2>
+
+<p>
+
+We learned that love isn't about never arguing.
+
+It's about choosing each other after every misunderstanding.
+
+</p>
+
+</div>
+
+<div class="box">
+
+<h2>
+
+❤️ Class 10
+
+</h2>
+
+<p>
+
+Three wonderful years later...
+
+You're still my favourite person.
+
+</p>
+
+</div>
+
+</section>
+
+<section class="special">
+
+<h1>
+
+Special Dates ❤️
+
+</h1>
+
+<div class="dateCard">
+
+<h2>
+
+10 July ❤️
+
+</h2>
+
+<p>
+
+A date that quietly became one of the most special memories of my heart.
+
+</p>
+
+</div>
+
+<div class="dateCard">
+
+<h2>
+
+11 July 🌸
+
+</h2>
+
+<p>
+
+Another beautiful chapter in our story.
+
+Some dates become unforgettable because of the person we spend them with.
+
+</p>
+
+</div>
+
+</section>
+
+<section class="gallery">
+
+<h1>
+
+The Beautiful Girl I Love ❤️
+
+</h1>
+
+<div class="photos">
+
+<div class="card">
+
+<img src="photos/1.jpg">
+
+<h2>
+
+Every smile of yours makes my whole day brighter.
+
+</h2>
+
+</div>
+
+<div class="card">
+
+<img src="photos/2.jpg">
+
+<h2>
+
+Your happiness has always been my favourite view.
+
+</h2>
+
+</div>
+
+<div class="card">
+
+<img src="photos/3.jpg">
+
+<h2>
+
+You don't try to be beautiful.
+
+You simply are.
+
+</h2>
+
+</div>
+
+<div class="card">
+
+<img src="photos/4.jpg">
+
+<h2>
+
+Your cute expressions are enough to make me smile.
+
+</h2>
+
+</div>
+
+<div class="card">
+
+<img src="photos/5.jpg">
+
+<h2>
+
+Every version of you becomes another reason to love you even more.
+
+</h2>
+
+</div>
+
+<div class="card">
+
+<img src="photos/6.jpg">
+
+<h2>
+
+Blue looks beautiful...
+
+but it becomes prettier because you're wearing it.
+
+</h2>
+
+</div>
+
+<div class="card">
+
+<img src="photos/7.jpg">
+
+<h2>
+
+That smile...
+
+will forever be one of my favourite memories.
+
+</h2>
+
+</div>
+
+<div class="card">
+
+<img src="photos/8.jpg">
+
+<h2>
+
+Happy Birthday Madam ❤️
+
+Seeing you smile was my favourite gift.
+
+</h2>
+
+</div>
+
+<div class="card">
+
+<img src="photos/9.jpg">
+
+<h2>
+
+Three years...
+
+and I still look at you with the same admiration.
+
+</h2>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="eyes">
+
+<h1>
+
+Your Beautiful Eyes 👀❤️
+
+</h1>
+
+<img src="photos/eyes.jpg">
+
+<p>
+
+People say eyes are the windows to the soul.
+
+Whenever I look into yours,
+
+I don't just see beautiful eyes.
+
+I see kindness.
+
+I see innocence.
+
+I see warmth.
+
+I see comfort.
+
+I see my favourite person.
+
+If I could spend forever getting lost somewhere...
+
+I'd choose your eyes every single time.
+
+</p>
+
+</section>
+
+<section class="heartSection">
+
+<h1>
+
+One Heart ❤️
+
+</h1>
+
+<img src="photos/heart.jpg">
+
+<p>
+
+Different hands.
+
+Different lives.
+
+One heart.
+
+One beautiful journey.
+
+</p>
+
+</section>
+
+<section class="together">
+
+<h1>
+
+Our Memories ❤️
+
+</h1>
+
+<img src="photos/us1.jpg">
+
+<p>
+
+Every picture with you becomes one of my favourite memories.
+
+</p>
+
+<img src="photos/us2.jpg">
+
+<p>
+
+No matter where we go...
+
+being beside you has always felt like home.
+
+</p>
+
+</section>
+
+<section class="ending">
+
+<h1>
+
+Dear Madam ❤️
+
+</h1>
+
+<p>
+
+You are not just my girlfriend.
+
+You are my peace.
+
+My happiness.
+
+My best friend.
+
+My greatest blessing.
+
+My favourite memory.
+
+And the most beautiful chapter of my life.
+
+Thank you for every smile.
+
+Every hug.
+
+Every conversation.
+
+Every memory.
+
+Happy Girlfriend's Day.
+
+I Love You Forever.
+
+❤️
+
+Forever Yours,
+
+Mr. Owl 🦉
+
+</p>
+
+<button>
+
+❤️ Always & Forever ❤️
+
+</button>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
